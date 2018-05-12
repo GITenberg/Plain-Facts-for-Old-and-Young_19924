@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7328
     wikipedia: http://en.wikipedia.org/wiki/John_Harvey_Kellogg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19924#Plain-Facts-for-Old-and-Young
 gutenberg_issued: '2006-11-27'
 gutenberg_type: Text
 identifiers:
